@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "773180270524",
+    "firebase_url": "https://salariu-net.firebaseio.com",
+    "project_id": "salariu-net",
+    "storage_bucket": "salariu-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773180270524:android:dde082572b49d55e",
+        "android_client_info": {
+          "package_name": "com.allexradu.salnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773180270524-7idvtd1mf8r2cvpbtjl4kab78t5bnsha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcChXKzRfO_VMQD56wbV0HBk8L3UT8lc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-0463943530925483~2568306214"
+    }
+  ],
+  "configuration_version": "1"
+}
