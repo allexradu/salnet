@@ -1,6 +1,6 @@
-# salnet
+# SALNET
 
-A new Flutter project.
+Salnet is an app developed in the Mobile Developent Framework named Flutter 
 
 ## Getting Started
 
