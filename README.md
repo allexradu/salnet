@@ -1,6 +1,10 @@
 # SALNET
 
-Salnet is an app developed in the Mobile Developent Framework named Flutter 
+Salnet is an app developed in the Mobile Developent Framework named Flutter.
+
+This app calculates your net salary when using yoiur gross salary as an imput.
+
+This app is open source so feel free to fork it.
 
 ## Getting Started
 
